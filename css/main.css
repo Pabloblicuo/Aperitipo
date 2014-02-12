@@ -1,0 +1,46 @@
+.caja { 
+width: 40%;
+display: inline-block;
+
+}
+
+.cajabox{
+	border: 1px solid black;
+}
+
+.caja h4{ 
+
+}
+
+.topimg {
+	width:100%;
+	height:auto;
+}
+
+.toppng {
+
+/*	position: absolute;*/
+/*	height:auto;*/
+}
+
+.toppngcontainer {
+/*	width:100%;*/
+	height:auto;
+	position: absolute;
+
+}
+
+
+@media (max-width:768px) {
+	.topimg{
+	width:170%;
+	margin-left: -70%;
+	height:auto;
+	}
+/*	.toppng{
+	width:170%;
+	margin-left: -70%;
+	height:auto;
+	}*/
+
+}
