@@ -18,7 +18,8 @@ display: inline-block;
 }
 
 .toppng {
-
+margin-top:-100%;
+margin-left:100%;
 /*	position: absolute;*/
 /*	height:auto;*/
 }
@@ -37,10 +38,10 @@ display: inline-block;
 	margin-left: -70%;
 	height:auto;
 	}
-/*	.toppng{
-	width:170%;
-	margin-left: -70%;
-	height:auto;
-	}*/
+	.toppng{
+	margin-top:-58%;
+	margin-left:22%;
+	width:58%;
+	}
 
 }
