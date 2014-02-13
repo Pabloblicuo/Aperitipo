@@ -39,9 +39,11 @@ width:190px;
 .jumbies{
 margin-left:50%;
 padding-left:0px;
+width:0px;
 }
 
 .jumbiecenterer{
+width:390px;
 margin-left:-195px;
 }
 
