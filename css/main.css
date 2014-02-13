@@ -33,6 +33,11 @@ display: inline-block;
 	height:auto;
 }
 
+.centerimg {
+	width:100%;
+	height:auto;
+}
+
 .toppng {
 margin-top:-60%;
 margin-left:29%;
@@ -71,6 +76,26 @@ background-color:transparent;
 /* border:solid black 1px; */
 }
 
+/*Carousel*/
+
+.carousel-inner {
+position: relative;
+overflow: hidden;
+width: 100%;
+margin-bottom: 50px;
+}
+
+body { padding-top: 20px;p }
+#myCarousel .nav a small {
+    display:block;
+}
+#myCarousel .nav {
+	background:#eee;
+}
+#myCarousel .nav a {
+    border-radius:0px;
+}
+
 
 @media (max-width:768px) {
 	.topimg{
@@ -78,6 +103,13 @@ background-color:transparent;
 	margin-left: -70%;
 	height:auto;
 	}
+
+/*	.centerimg{
+	width:100%;
+	margin-left: -70%;
+	height:auto;
+	}*/
+
 	.toppng{
 	margin-top:-58%;
 	margin-left:22%;
