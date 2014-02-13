@@ -28,7 +28,19 @@ margin-left:29%;
 /*	width:100%;*/
 	height:auto;
 	position: absolute;
+}
 
+.jumby {
+padding:25px!important;
+margin-left:-5px;
+}
+
+.interjumby {
+padding:0px!important;
+width:0px;
+margin:10px;
+background-color:transparent;
+/* border:solid black 1px; */
 }
 
 
