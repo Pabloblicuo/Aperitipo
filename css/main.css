@@ -20,6 +20,8 @@ display: inline-block;
 
 }
 
+
+
 .cajabox{
 	border: 1px solid black;
 }
@@ -49,6 +51,10 @@ margin-left:29%;
 /*	width:100%;*/
 	height:auto;
 	position: absolute;
+}
+
+.gris {
+	background-color: #dddddd;
 }
 
 .jumby {
