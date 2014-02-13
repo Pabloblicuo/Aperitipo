@@ -1,3 +1,19 @@
+/*class para textos*/
+
+.centrado { 
+text-align: center;
+}
+
+.margintop{
+	margin-top: 20px;
+}
+
+.marginbottom{
+	margin-bottom: 20px;
+}
+
+/*FIN class para textos*/
+
 .caja { 
 width: 40%;
 display: inline-block;
