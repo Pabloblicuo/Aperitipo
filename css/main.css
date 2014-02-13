@@ -31,8 +31,18 @@ margin-left:29%;
 }
 
 .jumby {
-padding:25px!important;
+padding:10px!important;
 margin-left:-5px;
+width:190px;
+}
+
+.jumbies{
+margin-left:50%;
+padding-left:0px;
+}
+
+.jumbiecenterer{
+margin-left:-195px;
 }
 
 .interjumby {
