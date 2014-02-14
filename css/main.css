@@ -83,6 +83,11 @@ background-color:transparent;
 /* border:solid black 1px; */
 }
 
+#cajagris {
+background-color: #dddddd;
+width: 100%;
+}
+
 .nav>li>a {
 position: relative;
 display: block;
