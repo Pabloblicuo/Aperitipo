@@ -6,6 +6,7 @@ text-align: center;
 
 .margintop{
 	margin-top: 20px;
+
 }
 
 .marginbottom{
@@ -82,9 +83,10 @@ background-color:transparent;
 /* border:solid black 1px; */
 }
 
-#cajagris{
-background-color:#dddddd;
-width:100%;
+.nav>li>a {
+position: relative;
+display: block;
+padding: 0px 0px;
 }
 
 /*Carousel*/
@@ -93,7 +95,7 @@ width:100%;
 position: relative;
 overflow: hidden;
 width: 100%;
-margin-bottom: 50px;
+margin-bottom: 0px;
 }
 
 #myCarousel .nav a small {
@@ -101,6 +103,7 @@ margin-bottom: 50px;
 }
 #myCarousel .nav {
 	background:#eee;
+	margin-bottom: 100px;
 }
 #myCarousel .nav a {
     border-radius:0px;
