@@ -82,7 +82,7 @@ background-color:transparent;
 }
 
 #cajafoto {
-background-image:url('header.jpg');
+background-image:url('../img/header.jpg');
 width: 100%;
 }
 
@@ -297,6 +297,10 @@ left:258px;
 
 .bottomlinks-centerer{
 margin-left:-171px;
+}
+
+#forminput{
+margin-left:0px;
 }
 
 }
