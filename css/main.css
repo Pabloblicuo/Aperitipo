@@ -152,6 +152,7 @@ color: white;
 display:inline-block;
 position:absolute;
 left:0px;
+margin-top:1px;
 }
 
 .facebooklarge:hover{
@@ -180,6 +181,7 @@ color: white;
 display:inline-block;
 position:absolute;
 left:278px;
+margin-top:1px;
 }
 
 .twitterlarge:hover{
@@ -254,5 +256,47 @@ margin-bottom: 0px;
 	margin-left:16%;
 	width:68%;
 	}
+
+}
+
+@media (max-width:640px) {
+
+.jumbiecenterer{
+margin-left:-189px;
+}
+
+.interjumby {
+margin:6px;
+}
+
+}
+
+@media (max-width:415px) {
+
+.jumby {
+padding:8px!important;
+margin-left:-2px;
+width:175px;
+}
+
+.jumbiecenterer{
+margin-left:-176px;
+}
+
+.interjumby {
+margin:3px;
+}
+
+.chulotype{
+left:117px;
+}
+
+.twitterlarge{
+left:258px;
+}
+
+.bottomlinks-centerer{
+margin-left:-171px;
+}
 
 }
