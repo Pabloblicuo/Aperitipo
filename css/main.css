@@ -115,6 +115,23 @@ position:absolute;
 color:black;
 }
 
+.facebooklarge{
+/* border: solid 1px black; */
+width: 102px;
+height: 30px;
+text-align: center;
+border-radius: 4px;
+background-color: #2980B9;
+color: white;
+margin-top: -50px;
+left: -15px;
+position: absolute;
+}
+
+.facebooklarge:hover{
+color:black;
+}
+
 .twitter{
 width:32px;
 height:32px;
@@ -128,6 +145,22 @@ position:absolute;
 }
 
 .twitter:hover{
+color:black;
+}
+
+.twitterlarge{
+width: 82px;
+height: 30px;
+text-align: center;
+border-radius: 4px;
+background-color: #3499DB;
+color: white;
+margin-top: -50px;
+right: -25px;
+position: absolute;
+}
+
+.twitterlarge:hover{
 color:black;
 }
 
@@ -146,6 +179,22 @@ line-height: 32px;
 
 .entradas:hover{
 color:#E74C3C;
+}
+
+.chulotype{
+width: 126px;
+height: 32px;
+text-align: center;
+border-radius: 4px;
+background-color: black;
+color: #7E8B8D;
+margin-top: -50px;
+right: 42%;
+position: absolute;
+}
+
+.chulotype:hover{
+color:black;
 }
 
 .nav>li>a {
