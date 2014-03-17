@@ -193,24 +193,25 @@ color:black;
 }
 
 .sponsor1{
-width: 109px;
 display:inline-block;
 position:absolute;
 left:0px;
 }
 
 .sponsor2{
-width: 109px;
 display:inline-block;
 position:absolute;
 left:176px;
 }
 
 .sponsor3{
-width: 109px;
 display:inline-block;
 position:absolute;
 left:310px;
+}
+
+.sponsors a img{
+height:109px;
 }
 
 .sponsors{
@@ -358,16 +359,27 @@ left:258px;
 margin-left:-171px;
 }
 
+.sponsor1{
+
+}
+
 .sponsor2{
-left:161px;
+left:128px;
+/* 118+10 */
 }
 
 .sponsor3{
-left:295px;
+left:223px;
+/* 128+85+10 */
 }
 
 .sponsors-centerer{
-margin-left:-207px;
+margin-left:-154px;
+/* (223+85)/2 */
+}
+
+.sponsors a img{
+height:85px;
 }
 
 #forminput{
