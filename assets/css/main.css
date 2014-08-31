@@ -50,6 +50,7 @@ p {
 }
 a {
     color: #437137;
+    font-weight: 700;
     word-wrap: break-word;
     -webkit-transition: color .1s ease-in, background .1s ease-in;
     -moz-transition: color .1s ease-in, background .1s ease-in;
